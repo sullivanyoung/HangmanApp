@@ -1,2 +1,3 @@
 # HangmanApp
-my attempt at working more with VS and github
+
+Followed online tutorial to create this console app
